@@ -26,17 +26,23 @@ I'm Ahmad from Tashkent, and I am Web Developer. I can say without doubt that a 
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+
 <details>
 <summary>More Skills</summary>
 <br>
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+
 <br>
+
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
+
 <br>
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-YARN-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-YARN-informational?style=flat&logo=yarn&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
@@ -45,6 +51,7 @@ I'm Ahmad from Tashkent, and I am Web Developer. I can say without doubt that a 
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
+<br>
 <!---
 akhmad98/akhmad98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
