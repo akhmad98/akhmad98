@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhmad98
 - 👀 I’m interested in surfing and climbing
 
-I'm Ahmad from Tashkent, and I am Web Developer. I can say without doubt that a person become stronger from ups and downs of life as he enjoys what he/she is doing like me.
+I'm Ahmad from Tashkent, and I am Web Developer. I can say without doubt that a person become stronger from ups and downs of life as he/she enjoys what he/she is doing like me.
 
 ## &#x1f4c8; GitHub Stats
 
